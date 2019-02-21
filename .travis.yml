@@ -1,4 +1,4 @@
 language: node_js
 node_js: "8"
 env:
-- AUTH_SHARED_SECRET=auth-shared-secret
+- AUTH_SHARED_SECRET=5bff1db6f94107c7a7885263a1e092f2ea158cde46183af8
